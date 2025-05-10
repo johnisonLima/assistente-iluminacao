@@ -1,0 +1,134 @@
+{
+  "acoes": [
+    {
+      "nome": "ligar",
+      "objetos": [
+        "iluminação",
+        "fita de LED",
+        "ar-condicionado",
+        "aquecedor",
+        "cafeteira inteligente",
+        "cortina automática",
+        "fechadura inteligente",
+        "difusor de aromas"
+      ]
+    },
+    {
+      "nome": "desligar",
+      "objetos": [
+        "iluminação",
+        "fita de LED",
+        "ar-condicionado",
+        "aquecedor",
+        "cafeteira inteligente",
+        "cortina automática",
+        "fechadura inteligente",
+        "difusor de aromas"
+      ]
+    },
+    {
+      "nome": "aumentar",
+      "objetos": [
+        "luminosidade",
+        "ar-condicionado",
+        "aquecedor",
+        "difusor de aromas"
+      ]
+    },
+    {
+      "nome": "diminuir",
+      "objetos": [
+        "luminosidade",
+        "ar-condicionado",
+        "aquecedor",
+        "difusor de aromas"
+      ]
+    },
+    {
+      "nome": "mudar cor",
+      "objetos": [
+        "iluminação",
+        "fita de LED"
+      ],
+      "valores": [
+        "vermelho",
+        "verde",
+        "azul",
+        "RGB"
+      ]
+    },
+    {
+      "nome": "definir intensidade",
+      "objetos": [
+        "iluminação",
+        "fita de LED",
+        "difusor de aromas"
+      ],
+      "valores": [
+        "0%",
+        "25%",
+        "50%",
+        "75%",
+        "100%"
+      ]
+    },
+    {
+      "nome": "configurar cena",
+      "objetos": [
+        "iluminação"
+      ],
+      "valores": [
+        "cinema",
+        "leitura",
+        "relaxar",
+        "romântico"
+      ]
+    },
+    {
+      "nome": "sincronizar com música",
+      "objetos": [
+        "iluminação",
+        "fita de LED"
+      ]
+    },
+    {
+      "nome": "programar horário",
+      "objetos": [
+        "iluminação",
+        "ar-condicionado",
+        "aquecedor",
+        "cafeteira inteligente",
+        "difusor de aromas"
+      ],
+      "valores": [
+        "07:00",
+        "22:00"
+      ]
+    },
+    {
+      "nome": "definir temperatura de cor",
+      "objetos": [
+        "iluminação"
+      ],
+      "valores": [
+        "2700K",
+        "4000K",
+        "6500K"
+      ]
+    },
+    {
+      "nome": "piscar",
+      "objetos": [
+        "fita de LED"
+      ]
+    },
+    {
+      "nome": "despertar",
+      "objetos": [
+        "iluminação",
+        "cafeteira inteligente",
+        "difusor de aromas"
+      ]
+    }
+  ]
+}
